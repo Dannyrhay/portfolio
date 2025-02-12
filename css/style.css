@@ -14,7 +14,7 @@
     height: 150px;
     width:100%; 
     margin: auto;
-    background-image: url(/images/Authorimg.png);
+    background-image: url(./images/Authorimg.png);
     background-size: cover;
     background-position: center;
     border-radius: 50px;
@@ -26,7 +26,7 @@
 
 .hero{
     height: 100vh;
-    background-image: url(/images/Hero2.png);
+    background-image: url(../images/Hero2.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
